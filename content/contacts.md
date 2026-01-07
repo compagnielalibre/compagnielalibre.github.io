@@ -4,6 +4,6 @@ title: Contacts
 permalink: /contacts/
 ---
 
-# Protagonistes
+# Contacts
 
-Your protagonistes content here...
+compagnielalibre [at] gmail.com
