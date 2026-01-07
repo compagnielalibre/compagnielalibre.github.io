@@ -1,0 +1,22 @@
+title: La Libre
+description: Your site description
+url: ""
+logo: /assets/images/logo.png
+
+plugins:
+   - jekyll-paginate
+   - jekyll-feed
+
+paginate: 10
+paginate_path: "/page/:num/"
+
+show_excerpts: true
+excerpt_length: 20
+
+sass:
+   quiet_deps: true
+  
+hide_search: true
+
+instagram_username: "compagnielalibre"
+youtube_username: "@compagnielalibre9348"
